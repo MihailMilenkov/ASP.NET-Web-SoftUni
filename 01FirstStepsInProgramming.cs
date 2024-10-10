@@ -16,7 +16,23 @@
 //Console.WriteLine((2 * a) + (2 * b));
 
 // 4. Triangle of stars
-for (int i = 1; i < 11; i++)
+//for (int i = 1; i < 11; i++)
+//{
+//    Console.WriteLine(new string('*', i));
+//}
+
+// 5. Square of stars
+
+var n = int.Parse(Console.ReadLine());
+double a = n - 2;
+Console.WriteLine("Please input a number for rectangle's side");
+
+for (int i = 1; i <= n - 2; i++)
+Console.WriteLine(new string('*', n));
 {
-    Console.WriteLine(new string('*', i));
+    Console.Write("*");
+    Console.Write(new string(' ', n - 2));
+    Console.WriteLine("*");
 }
+
+Console.WriteLine(new string('*', n));
