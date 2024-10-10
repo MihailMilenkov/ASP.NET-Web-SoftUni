@@ -23,16 +23,16 @@
 
 // 5. Square of stars
 
-var n = int.Parse(Console.ReadLine());
-double a = n - 2;
-Console.WriteLine("Please input a number for rectangle's side");
+//var n = int.Parse(Console.ReadLine());
+//double a = n - 2;
+//Console.WriteLine("Please input a number for rectangle's side");
 
-for (int i = 1; i <= n - 2; i++)
-Console.WriteLine(new string('*', n));
-{
-    Console.Write("*");
-    Console.Write(new string(' ', n - 2));
-    Console.WriteLine("*");
-}
+//for (int i = 1; i <= n - 2; i++)
+//Console.WriteLine(new string('*', n));
+//{
+//    Console.Write("*");
+//    Console.Write(new string(' ', n - 2));
+//    Console.WriteLine("*");
+//}
 
-Console.WriteLine(new string('*', n));
+//Console.WriteLine(new string('*', n));
