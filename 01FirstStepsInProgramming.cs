@@ -11,6 +11,12 @@
 //}
 
 // 3. Rectangle area
-decimal a = decimal.Parse(Console.ReadLine());
-var b = decimal.Parse(Console.ReadLine());
-Console.WriteLine((2 * a) + (2 * b));
+//decimal a = decimal.Parse(Console.ReadLine());
+//var b = decimal.Parse(Console.ReadLine());
+//Console.WriteLine((2 * a) + (2 * b));
+
+// 4. Triangle of stars
+for (int i = 1; i < 11; i++)
+{
+    Console.WriteLine(new string('*', i));
+}
