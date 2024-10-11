@@ -6,6 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
     using CSharpProgrammingBasics._01FirstSteps;
+    using CSharpProgrammingBasics._02SimpleOperations;
 
     internal class Program
     {
@@ -14,7 +15,9 @@
             //PrintAndSum.Start();
             //Login.Start();
             //StrongNumber.Start();
-            TriangleOfNumbers.Start();
+            //TriangleOfNumbers.Start();
+
+            PrintName.Start();
         }
     }
 }
