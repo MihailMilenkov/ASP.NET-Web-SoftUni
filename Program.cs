@@ -12,8 +12,8 @@
         private static void Main(string[] args)
         {
             //PrintAndSum.Start();
-            Login.Start();
-            //PrintAndSum.Start();
+            //Login.Start();
+            StrongNumber.Start();
             //PrintAndSum.Start();
             //PrintAndSum.Start();
         }
