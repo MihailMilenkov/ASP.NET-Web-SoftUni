@@ -13,9 +13,8 @@
         {
             //PrintAndSum.Start();
             //Login.Start();
-            StrongNumber.Start();
-            //PrintAndSum.Start();
-            //PrintAndSum.Start();
+            //StrongNumber.Start();
+            TriangleOfNumbers.Start();
         }
     }
 }
