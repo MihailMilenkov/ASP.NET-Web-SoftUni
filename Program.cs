@@ -9,6 +9,7 @@
     using CSharpProgrammingBasics._02SimpleOperations;
     using CSharpProgrammingBasics._03SimpleOperationsExercise;
     using CSharpProgrammingBasics._04ConditionalStatements;
+    using CSharpProgrammingBasics._05ConditionalStatementsExercise;
 
     internal class Program
     {
@@ -55,7 +56,9 @@
             //_06PasswordGuesss.Start();
             //_07AreaOfFigures.Start();
             //_08TripCalculator.Start();
-            _09ToyShop.Start();
+            //_09ToyShop.Start();
+
+            _00.Start();
         }
     }
 }
