@@ -53,7 +53,8 @@
             //_04NumberOneToNine.Start();
             //_05Number100to200.Start();
             //_06PasswordGuesss.Start();
-            _07AreaOfFigures.Start();
+            //_07AreaOfFigures.Start();
+            _08TripCalculator.Start();
         }
     }
 }
