@@ -38,7 +38,8 @@
             //_04RadiansToDegrees.Start();
             //_05RectangleArea.Start();
             //_06TailoringWorkshop.Start();
-            _07DanceHall.Start();
+            //_07DanceHall.Start();
+            _08CharityCampaign.Start();
         }
     }
 }
