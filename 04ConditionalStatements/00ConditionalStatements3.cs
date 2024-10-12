@@ -8,6 +8,15 @@
 
     internal class _00ConditionalStatements3
     {
-        
+        internal static void Start()
+        {
+            string currentDay = "Monday";
+            double salary = 0;
+
+            if (currentDay == "Monday")
+            {
+                salary = double.Parse(Console.ReadLine());
+            }
+        }
     }
 }
