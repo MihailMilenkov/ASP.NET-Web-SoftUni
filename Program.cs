@@ -18,7 +18,8 @@
             //TriangleOfNumbers.Start();
 
             //PrintName.Start();
-            DivisionWithRemainders.Start();
+            //DivisionWithRemainders.Start();
+            _0101GreetingByName.Start();
         }
     }
 }
