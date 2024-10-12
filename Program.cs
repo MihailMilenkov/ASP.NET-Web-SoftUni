@@ -24,7 +24,8 @@
             //_03SquareArea.Start();
             //_04InchToCm.Start();
             //_05ProjectsCreation.Start();
-            _06CircleAreaAndPerimeter.Start();
+            //_06CircleAreaAndPerimeter.Start();
+            _07PetShop.Start();
 
 
         }
