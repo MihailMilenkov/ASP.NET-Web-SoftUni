@@ -33,7 +33,8 @@
             //_00Variables.Start();
             //_01InterpolateConcatenatePlaceholders.Start();
             //_01Concatenation.Start();
-            _02MathFunctions.Start();
+            //_02MathFunctions.Start();
+            _03USDToBGN.Start();
         }
     }
 }
