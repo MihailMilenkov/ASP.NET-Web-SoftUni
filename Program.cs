@@ -20,7 +20,8 @@
             //PrintName.Start();
             //DivisionWithRemainders.Start();
             //_0101GreetingByName.Start();
-            _02ConcatenateData.Start();
+            //_02ConcatenateData.Start();
+            _03SquareArea.Start();
         }
     }
 }
