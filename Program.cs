@@ -35,7 +35,8 @@
             //_01Concatenation.Start();
             //_02MathFunctions.Start();
             //_03USDToBGN.Start();
-            _04RadiansToDegrees.Start();
+            //_04RadiansToDegrees.Start();
+            _05RectangleArea.Start();
         }
     }
 }
