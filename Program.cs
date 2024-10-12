@@ -31,6 +31,7 @@
             //_09Aquarium.Start();
 
             _00Variables.Start();
+            _01InterpolateConcatenatePlaceholders.Start();
         }
     }
 }
