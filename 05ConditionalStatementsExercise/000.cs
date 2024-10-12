@@ -6,19 +6,14 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    internal class _01
+    internal class _000
     {
         internal static void Start()
         {
-            int num = int.Parse(Console.ReadLine());
-
-            if (num <= 5)
+            bool check = 5 < 6; // true
+            if (check)
             {
-                Console.WriteLine("Less than or equal to 5");
-            }
-            else if (num <= 10)
-            {
-                Console.WriteLine("Less than or equal to 10");
+                Console.WriteLine("Hello World!");
             }
         }
     }

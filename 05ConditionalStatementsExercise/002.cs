@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    internal class _02
+    internal class _002
     {
         internal static void Start()
         {
