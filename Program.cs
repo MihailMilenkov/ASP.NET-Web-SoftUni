@@ -17,7 +17,8 @@
             //StrongNumber.Start();
             //TriangleOfNumbers.Start();
 
-            PrintName.Start();
+            //PrintName.Start();
+            DivisionWithRemainders.Start();
         }
     }
 }
