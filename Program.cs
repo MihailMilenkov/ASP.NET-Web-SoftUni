@@ -39,7 +39,8 @@
             //_05RectangleArea.Start();
             //_06TailoringWorkshop.Start();
             //_07DanceHall.Start();
-            _08CharityCampaign.Start();
+            //_08CharityCampaign.Start();
+            _09AlcoholMarket.Start();
         }
     }
 }
