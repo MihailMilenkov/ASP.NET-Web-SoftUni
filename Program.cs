@@ -37,7 +37,8 @@
             //_03USDToBGN.Start();
             //_04RadiansToDegrees.Start();
             //_05RectangleArea.Start();
-            _06TailoringWorkshop.Start();;;
+            //_06TailoringWorkshop.Start();
+            _07DanceHall.Start();
         }
     }
 }
