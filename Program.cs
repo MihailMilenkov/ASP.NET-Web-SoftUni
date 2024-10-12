@@ -23,7 +23,10 @@
             //_02ConcatenateData.Start();
             //_03SquareArea.Start();
             //_04InchToCm.Start();
-            _05ProjectsCreation.Start();
+            //_05ProjectsCreation.Start();
+            _06CircleAreaAndPerimeter.Start();
+
+
         }
     }
 }
