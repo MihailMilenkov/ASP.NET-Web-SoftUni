@@ -7,6 +7,7 @@
     using System.Threading.Tasks;
     using CSharpProgrammingBasics._01FirstSteps;
     using CSharpProgrammingBasics._02SimpleOperations;
+    using CSharpProgrammingBasics._03SimpleOperationsExercise;
 
     internal class Program
     {
@@ -27,7 +28,9 @@
             //_06CircleAreaAndPerimeter.Start();
             //_07PetShop.Start();
             //_08YardGreening.Start();
-            _09Aquarium.Start();
+            //_09Aquarium.Start();
+
+            _00Variables.Start();
         }
     }
 }
