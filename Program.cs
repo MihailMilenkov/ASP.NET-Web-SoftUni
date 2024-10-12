@@ -30,8 +30,9 @@
             //_08YardGreening.Start();
             //_09Aquarium.Start();
 
-            _00Variables.Start();
-            _01InterpolateConcatenatePlaceholders.Start();
+            //_00Variables.Start();
+            //_01InterpolateConcatenatePlaceholders.Start();
+            _01Concatenation.Start();
         }
     }
 }
