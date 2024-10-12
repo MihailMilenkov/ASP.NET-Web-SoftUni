@@ -54,7 +54,8 @@
             //_05Number100to200.Start();
             //_06PasswordGuesss.Start();
             //_07AreaOfFigures.Start();
-            _08TripCalculator.Start();
+            //_08TripCalculator.Start();
+            _09ToyShop.Start();
         }
     }
 }
