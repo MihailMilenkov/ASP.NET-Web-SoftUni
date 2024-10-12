@@ -8,6 +8,7 @@
     using CSharpProgrammingBasics._01FirstSteps;
     using CSharpProgrammingBasics._02SimpleOperations;
     using CSharpProgrammingBasics._03SimpleOperationsExercise;
+    using CSharpProgrammingBasics._04ConditionalStatements;
 
     internal class Program
     {
@@ -40,7 +41,11 @@
             //_06TailoringWorkshop.Start();
             //_07DanceHall.Start();
             //_08CharityCampaign.Start();
-            _09AlcoholMarket.Start();
+            //_09AlcoholMarket.Start();
+
+            //_00ConditionalStatements0.Start();
+            //_00ConditionalStatements1.Start();
+            _00ConditionalStatements2.Start();
         }
     }
 }
