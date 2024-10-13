@@ -66,7 +66,8 @@
             //_02BonusScore.Start();
             //_03SpeedInfo.Start();
             //_04MetricConverter.Start();
-            _05Time.Start();
+            //_05Time.Start();
+            _06GodzillaVsKong.Start();
         }
     }
 }
