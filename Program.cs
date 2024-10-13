@@ -68,7 +68,8 @@
             //_04MetricConverter.Start();
             //_05Time.Start();
             //_06GodzillaVsKong.Start();
-            _07SwimmingRecord.Start();
+            //_07SwimmingRecord.Start();
+            _08Scholarship.Start();
         }
     }
 }
