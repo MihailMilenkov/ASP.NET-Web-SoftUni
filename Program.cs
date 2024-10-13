@@ -65,7 +65,8 @@
             //_001SumSeconds.Start();
             //_02BonusScore.Start();
             //_03SpeedInfo.Start();
-            _04MetricConverter.Start();
+            //_04MetricConverter.Start();
+            _05Time.Start();
         }
     }
 }
