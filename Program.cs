@@ -62,7 +62,8 @@
             //_001.Start();
             //_002.Start();
             //_003.Start();
-            _03.Start();
+            //_001SumSeconds.Start();
+            _02BonusScore.Start();
         }
     }
 }
