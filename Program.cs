@@ -67,7 +67,8 @@
             //_03SpeedInfo.Start();
             //_04MetricConverter.Start();
             //_05Time.Start();
-            _06GodzillaVsKong.Start();
+            //_06GodzillaVsKong.Start();
+            _07SwimmingRecord.Start();
         }
     }
 }
