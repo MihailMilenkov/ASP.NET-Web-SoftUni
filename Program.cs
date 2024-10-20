@@ -82,7 +82,8 @@
             //_06FruitOrVegetable.Start();
             //_07InvalidNumber.Start();
             //_08FruitShop.Start();
-            _09TradeCommissions.Start();
+            //_09TradeCommissions.Start();
+            _10SkiTrip.Start();
         }
     }
 }
