@@ -73,7 +73,8 @@
             //_08Scholarship.Start();
 
             //_00.Start();
-            _01.Start();
+            //_01.Start();
+            _01DayOfWeek.Start();
         }
     }
 }
