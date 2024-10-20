@@ -80,7 +80,8 @@
             //_04SmallShop.Start();
             //_05NumberInRange.Start();
             //_06FruitOrVegetable.Start();
-            _07InvalidNumber.Start();
+            //_07InvalidNumber.Start();
+            _08FruitShop.Start();
         }
     }
 }
