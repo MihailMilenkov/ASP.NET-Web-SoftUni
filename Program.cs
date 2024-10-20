@@ -108,7 +108,8 @@
             //_05MaxNumber.Start();
             //_06MinNumber.Start();
             //_07Graduation.Start();
-            _08MoreGraduation.Start();
+            //_08MoreGraduation.Start();
+            _09Moving.Start();
         }
     }
 }
