@@ -86,7 +86,9 @@
             //_09TradeCommissions.Start();
             //_10SkiTrip.Start();
 
-            _01PointOnRectangleBorder.Start();
+            //_01PointOnRectangleBorder.Start();
+            //_02Cinema.Start();
+            _02Cinema.Start();
         }
     }
 }
