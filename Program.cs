@@ -90,7 +90,8 @@
             //_02Cinema.Start();
             //_03SummerOutfit.Start();
             //_04NewHouse.Start();
-            _05FishingBoat.Start();
+            //_05FishingBoat.Start();
+            _06Journey.Start();
         }
     }
 }
