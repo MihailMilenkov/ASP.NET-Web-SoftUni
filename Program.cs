@@ -104,7 +104,8 @@
             //_01NumbersFromOneToOneHundred.Start();
             //_02Password.Start();
             //_03SequenceTwoKPlusOne.Start();
-            _04AccountBalance.Start();
+            //_04AccountBalance.Start();
+            _05MaxNumber.Start();
         }
     }
 }
