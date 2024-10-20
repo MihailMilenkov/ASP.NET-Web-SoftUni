@@ -105,7 +105,8 @@
             //_02Password.Start();
             //_03SequenceTwoKPlusOne.Start();
             //_04AccountBalance.Start();
-            _05MaxNumber.Start();
+            //_05MaxNumber.Start();
+            _06MinNumber.Start();
         }
     }
 }
