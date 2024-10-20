@@ -78,7 +78,8 @@
             //_02AnimalType.Start();
             //_03PersonalTitles.Start();
             //_04SmallShop.Start();
-            _05NumberInRange.Start();
+            //_05NumberInRange.Start();
+            _06FruitOrVegetable.Start();
         }
     }
 }
