@@ -93,7 +93,8 @@
             //_05FishingBoat.Start();
             //_06Journey.Start();
             //_07OperationsBetweenNumbers.Start();
-            _08HotelRoom.Start();
+            //_08HotelRoom.Start();
+            _09InTimeForTheExam.Start();
         }
     }
 }
