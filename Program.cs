@@ -11,6 +11,7 @@
     using CSharpProgrammingBasics._04ConditionalStatements;
     using CSharpProgrammingBasics._05ConditionalStatementsExercise;
     using CSharpProgrammingBasics._06NestedConditionalStatements;
+    using CSharpProgrammingBasics._07NestedConditionalStatementsEcercise;
 
     internal class Program
     {
@@ -83,7 +84,9 @@
             //_07InvalidNumber.Start();
             //_08FruitShop.Start();
             //_09TradeCommissions.Start();
-            _10SkiTrip.Start();
+            //_10SkiTrip.Start();
+
+            _01PointOnRectangleBorder.Start();
         }
     }
 }
