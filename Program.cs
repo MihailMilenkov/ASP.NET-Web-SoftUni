@@ -92,7 +92,8 @@
             //_04NewHouse.Start();
             //_05FishingBoat.Start();
             //_06Journey.Start();
-            _07OperationsBetweenNumbers.Start();
+            //_07OperationsBetweenNumbers.Start();
+            _08HotelRoom.Start();
         }
     }
 }
