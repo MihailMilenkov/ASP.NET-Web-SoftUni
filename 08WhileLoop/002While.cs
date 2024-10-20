@@ -8,5 +8,15 @@
 
     internal class _002While
     {
+        internal static void Start()
+        {
+            string command = Console.ReadLine(); //wash
+
+            while (command != "stop")
+            {
+                Console.WriteLine("Wash!");
+                command = Console.ReadLine();      // continue
+            }
+        }
     }
 }
