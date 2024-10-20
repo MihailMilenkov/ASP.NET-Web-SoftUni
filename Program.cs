@@ -81,7 +81,8 @@
             //_05NumberInRange.Start();
             //_06FruitOrVegetable.Start();
             //_07InvalidNumber.Start();
-            _08FruitShop.Start();
+            //_08FruitShop.Start();
+            _09TradeCommissions.Start();
         }
     }
 }
