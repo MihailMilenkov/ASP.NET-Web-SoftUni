@@ -10,7 +10,11 @@
     {
         internal static void Start()
         {
-            
+            string input = Console.ReadLine();
+
+            bool check = (input == "banana" || input == "apple" || input == "kiwi" || input == "cherry" || input == "lemon" || input == "grapes");
+
+            Console.WriteLine(check);
         }
     }
 }
