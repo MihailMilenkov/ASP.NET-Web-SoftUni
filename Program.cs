@@ -88,7 +88,7 @@
 
             //_01PointOnRectangleBorder.Start();
             //_02Cinema.Start();
-            _02Cinema.Start();
+            _03SummerOutfit.Start();
         }
     }
 }
