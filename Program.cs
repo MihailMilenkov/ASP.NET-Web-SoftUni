@@ -106,7 +106,8 @@
             //_03SequenceTwoKPlusOne.Start();
             //_04AccountBalance.Start();
             //_05MaxNumber.Start();
-            _06MinNumber.Start();
+            //_06MinNumber.Start();
+            _07Graduation.Start();
         }
     }
 }
