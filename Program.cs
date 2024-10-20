@@ -10,6 +10,7 @@
     using CSharpProgrammingBasics._03SimpleOperationsExercise;
     using CSharpProgrammingBasics._04ConditionalStatements;
     using CSharpProgrammingBasics._05ConditionalStatementsExercise;
+    using CSharpProgrammingBasics._06NestedConditionalStatements;
 
     internal class Program
     {
@@ -69,7 +70,9 @@
             //_05Time.Start();
             //_06GodzillaVsKong.Start();
             //_07SwimmingRecord.Start();
-            _08Scholarship.Start();
+            //_08Scholarship.Start();
+
+            _00.Start();
         }
     }
 }
