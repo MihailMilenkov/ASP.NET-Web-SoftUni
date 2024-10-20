@@ -107,7 +107,8 @@
             //_04AccountBalance.Start();
             //_05MaxNumber.Start();
             //_06MinNumber.Start();
-            _07Graduation.Start();
+            //_07Graduation.Start();
+            _08MoreGraduation.Start();
         }
     }
 }
