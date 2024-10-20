@@ -12,6 +12,7 @@
     using CSharpProgrammingBasics._05ConditionalStatementsExercise;
     using CSharpProgrammingBasics._06NestedConditionalStatements;
     using CSharpProgrammingBasics._07NestedConditionalStatementsEcercise;
+    using CSharpProgrammingBasics._08WhileLoop;
 
     internal class Program
     {
@@ -95,7 +96,9 @@
             //_07OperationsBetweenNumbers.Start();
             //_08HotelRoom.Start();
             //_09InTimeForTheExam.Start();
-            _10Volleyball.Start();
+            //_10Volleyball.Start();
+
+            _000While.Start();
         }
     }
 }
