@@ -13,6 +13,7 @@
     using CSharpProgrammingBasics._06NestedConditionalStatements;
     using CSharpProgrammingBasics._07NestedConditionalStatementsEcercise;
     using CSharpProgrammingBasics._08WhileLoop;
+    using CSharpProgrammingBasics._09WhileLoopExercise;
 
     internal class Program
     {
@@ -109,7 +110,9 @@
             //_06MinNumber.Start();
             //_07Graduation.Start();
             //_08MoreGraduation.Start();
-            _09Moving.Start();
+            //_09Moving.Start();
+
+            _000WhileExercise.Start();
         }
     }
 }
