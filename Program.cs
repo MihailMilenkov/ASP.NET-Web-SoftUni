@@ -77,7 +77,8 @@
             //_01DayOfWeek.Start();
             //_02AnimalType.Start();
             //_03PersonalTitles.Start();
-            _04SmallShop.Start();
+            //_04SmallShop.Start();
+            _05NumberInRange.Start();
         }
     }
 }
