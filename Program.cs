@@ -89,7 +89,8 @@
             //_01PointOnRectangleBorder.Start();
             //_02Cinema.Start();
             //_03SummerOutfit.Start();
-            _04NewHouse.Start();
+            //_04NewHouse.Start();
+            _05FishingBoat.Start();
         }
     }
 }
