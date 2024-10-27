@@ -18,6 +18,7 @@
     using CSharpProgrammingBasics._11ForLoopExercise;
     using CSharpProgrammingBasics._12NestedLoops;
     using CSharpProgrammingBasics._13NestedLoopsExercise;
+    using CSharpProgrammingBasics._14ExamProblems;
 
     internal class Program
     {
@@ -167,7 +168,9 @@
             //_05EqualSumsLeftRightPosition.Start();
             //_06SumPrimeNonPrime.Start();
             //_07PasswordGenerator.Start();
-            _08SpecialNumbers.Start();
+            //_08SpecialNumbers.Start();
+
+            _01SampleExam.Start();
         }
     }
 }
