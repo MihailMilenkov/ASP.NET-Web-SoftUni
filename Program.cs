@@ -16,6 +16,7 @@
     using CSharpProgrammingBasics._09WhileLoopExercise;
     using CSharpProgrammingBasics._10ForLoop;
     using CSharpProgrammingBasics._11ForLoopExercise;
+    using CSharpProgrammingBasics._12NestedLoops;
 
     internal class Program
     {
@@ -144,7 +145,9 @@
             //_04EqualPairs.Start();
             //_05Histogram.Start();
             //_06DivideWithoutRemainder.Start();
-            _07Salary.Start();
+            //_07Salary.Start();
+
+            _000NestedLoops.Start();
         }
     }
 }
