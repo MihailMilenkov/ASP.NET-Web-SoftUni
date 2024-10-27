@@ -179,7 +179,8 @@
             //_07RoomPainting.Start();
             //_08AddBags.Start();
             //_09PublicTransport.Start();
-            _10Freelance.Start();
+            //_10Freelance.Start();
+            _11AirplaneSeats.Start();
         }
     }
 }
