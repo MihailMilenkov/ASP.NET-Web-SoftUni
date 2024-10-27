@@ -17,6 +17,7 @@
     using CSharpProgrammingBasics._10ForLoop;
     using CSharpProgrammingBasics._11ForLoopExercise;
     using CSharpProgrammingBasics._12NestedLoops;
+    using CSharpProgrammingBasics._13NestedLoopsExercise;
 
     internal class Program
     {
@@ -157,7 +158,9 @@
             //_06NameWars.Start();
             //_07Building.Start();
             //_08CookieFactory.Start();
-            _09CinemaTickets.Start();
+            //_09CinemaTickets.Start();
+
+            _01Matrix.Start();
         }
     }
 }
