@@ -139,7 +139,9 @@
             //_12CleverLily.Start();
 
             //_01NumbersEndingIn7.Start();
-            _03OddEvenPosition.Start();
+            //_02HalfSumElement.Start();
+            //_03OddEvenPosition.Start();
+            _04EqualPairs.Start();
         }
     }
 }
