@@ -156,7 +156,8 @@
             //_05Travelling.Start();
             //_06NameWars.Start();
             //_07Building.Start();
-            _08CookieFactory.Start();
+            //_08CookieFactory.Start();
+            _09CinemaTickets.Start();
         }
     }
 }
