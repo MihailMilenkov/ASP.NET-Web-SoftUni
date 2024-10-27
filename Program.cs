@@ -134,7 +134,8 @@
             //_08OddEvenSum.Start();
             //_09NumbersNTo1.Start();
             //_10Numbers1ToNWithStep3.Start();
-            _11EvenPowersOfTwo.Start();
+            //_11EvenPowersOfTwo.Start();
+            _12CleverLily.Start();
         }
     }
 }
