@@ -117,7 +117,8 @@
             //_01OldBooks.Start();
             //_02ExamPreparation.Start();
             //_03Vacation.Start();
-            _04Walking.Start();
+            //_04Walking.Start();
+            _05Coins.Start();
         }
     }
 }
