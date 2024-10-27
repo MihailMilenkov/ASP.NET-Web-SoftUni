@@ -15,6 +15,7 @@
     using CSharpProgrammingBasics._08WhileLoop;
     using CSharpProgrammingBasics._09WhileLoopExercise;
     using CSharpProgrammingBasics._10ForLoop;
+    using CSharpProgrammingBasics._11ForLoopExercise;
 
     internal class Program
     {
@@ -135,7 +136,9 @@
             //_09NumbersNTo1.Start();
             //_10Numbers1ToNWithStep3.Start();
             //_11EvenPowersOfTwo.Start();
-            _12CleverLily.Start();
+            //_12CleverLily.Start();
+
+            _01NumbersEndingIn7.Start();
         }
     }
 }
