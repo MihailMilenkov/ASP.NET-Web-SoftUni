@@ -160,7 +160,8 @@
             //_08CookieFactory.Start();
             //_09CinemaTickets.Start();
 
-            _01Matrix.Start();
+            //_01Matrix.Start();
+            _02NumberPyramid.Start();
         }
     }
 }
