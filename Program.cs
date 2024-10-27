@@ -154,7 +154,8 @@
             //_03Combinations.Start();
             //_04SumOf2Numbers.Start();
             //_05Travelling.Start();
-            _06NameWars.Start();
+            //_06NameWars.Start();
+            _07Building.Start();
         }
     }
 }

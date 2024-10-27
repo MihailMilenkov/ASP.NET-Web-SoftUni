@@ -8,5 +8,9 @@
 
     internal class _08CookieFactory
     {
+        internal static void Start()
+        {
+
+        }
     }
 }

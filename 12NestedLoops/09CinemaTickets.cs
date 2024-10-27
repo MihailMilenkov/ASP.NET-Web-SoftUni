@@ -8,5 +8,9 @@
 
     internal class _09CinemaTickets
     {
+        internal static void Start()
+        {
+
+        }
     }
 }
