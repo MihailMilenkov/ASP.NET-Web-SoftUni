@@ -149,7 +149,8 @@
 
             //_000NestedLoops.Start();
             //_001NestedLoops.Start();
-            _01Clock.Start();
+            //_01Clock.Start();
+            _02MultiplicationTable.Start();
         }
     }
 }
