@@ -175,7 +175,8 @@
             //_03SushiTime.Start();
             //_04BachelorParty.Start();
             //_05Bus.Start();
-            _06MultiplyTable.Start();
+            //_06MultiplyTable.Start();
+            _07RoomPainting.Start();
         }
     }
 }
