@@ -138,7 +138,8 @@
             //_11EvenPowersOfTwo.Start();
             //_12CleverLily.Start();
 
-            _01NumbersEndingIn7.Start();
+            //_01NumbersEndingIn7.Start();
+            _02HalfSumElement.Start();
         }
     }
 }
