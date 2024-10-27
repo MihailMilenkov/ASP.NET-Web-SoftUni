@@ -127,7 +127,8 @@
             //_01NumbersFrom1To100.Start();
             //_02LatinLetters.Start();
             //_03CharacterSequence.Start();
-            _04VowelsSum.Start();
+            //_04VowelsSum.Start();
+            _05SumNumbers.Start();
         }
     }
 }
