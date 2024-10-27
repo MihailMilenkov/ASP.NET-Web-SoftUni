@@ -174,7 +174,8 @@
             //_02Spaceship.Start();
             //_03SushiTime.Start();
             //_04BachelorParty.Start();
-            _05Bus.Start();
+            //_05Bus.Start();
+            _06MultiplyTable.Start();
         }
     }
 }
