@@ -162,8 +162,9 @@
 
             //_01Matrix.Start();
             //_02NumberPyramid.Start();
-            _03Coding.Start();
-            _04EqualSumsEvenOddPosition.Start();
+            //_03Coding.Start();
+            //_04EqualSumsEvenOddPosition.Start();
+            _05EqualSumsLeftRightPosition.Start();
         }
     }
 }
