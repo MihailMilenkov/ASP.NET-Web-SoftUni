@@ -141,7 +141,8 @@
             //_01NumbersEndingIn7.Start();
             //_02HalfSumElement.Start();
             //_03OddEvenPosition.Start();
-            _04EqualPairs.Start();
+            //_04EqualPairs.Start();
+            _05Histogram.Start();
         }
     }
 }
