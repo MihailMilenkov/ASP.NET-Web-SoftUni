@@ -178,7 +178,8 @@
             //_06MultiplyTable.Start();
             //_07RoomPainting.Start();
             //_08AddBags.Start();
-            _09PublicTransport.Start();
+            //_09PublicTransport.Start();
+            _10Freelance.Start();
         }
     }
 }
