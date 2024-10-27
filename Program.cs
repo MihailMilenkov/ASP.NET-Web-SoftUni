@@ -142,7 +142,8 @@
             //_02HalfSumElement.Start();
             //_03OddEvenPosition.Start();
             //_04EqualPairs.Start();
-            _05Histogram.Start();
+            //_05Histogram.Start();
+            _06DivideWithoutRemainder.Start();
         }
     }
 }
