@@ -170,7 +170,8 @@
             //_07PasswordGenerator.Start();
             //_08SpecialNumbers.Start();
 
-            _01SampleExam.Start();
+            //_01SampleExam.Start();
+            _02Spaceship.Start();
         }
     }
 }
