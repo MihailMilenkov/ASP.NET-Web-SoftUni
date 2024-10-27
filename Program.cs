@@ -176,7 +176,8 @@
             //_04BachelorParty.Start();
             //_05Bus.Start();
             //_06MultiplyTable.Start();
-            _07RoomPainting.Start();
+            //_07RoomPainting.Start();
+            _08AddBags.Start();
         }
     }
 }
