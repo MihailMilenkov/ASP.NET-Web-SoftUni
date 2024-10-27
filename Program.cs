@@ -173,7 +173,8 @@
             //_01SampleExam.Start();
             //_02Spaceship.Start();
             //_03SushiTime.Start();
-            _04BachelorParty.Start();
+            //_04BachelorParty.Start();
+            _05Bus.Start();
         }
     }
 }
