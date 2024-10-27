@@ -124,7 +124,8 @@
 
             //_000ForLoop.Start();
             //_001ForLoop.Start();
-            _01NumbersFrom1To100.Start();
+            //_01NumbersFrom1To100.Start();
+            _02LatinLetters.Start();
         }
     }
 }
