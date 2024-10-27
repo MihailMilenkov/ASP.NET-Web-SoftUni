@@ -165,7 +165,8 @@
             //_03Coding.Start();
             //_04EqualSumsEvenOddPosition.Start();
             //_05EqualSumsLeftRightPosition.Start();
-            _06SumPrimeNonPrime.Start();
+            //_06SumPrimeNonPrime.Start();
+            _07PasswordGenerator.Start();
         }
     }
 }
