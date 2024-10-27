@@ -152,7 +152,8 @@
             //_01Clock.Start();
             //_02MultiplicationTable.Start();
             //_03Combinations.Start();
-            _04SumOf2Numbers.Start();
+            //_04SumOf2Numbers.Start();
+            _05Travelling.Start();
         }
     }
 }
