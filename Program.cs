@@ -153,7 +153,8 @@
             //_02MultiplicationTable.Start();
             //_03Combinations.Start();
             //_04SumOf2Numbers.Start();
-            _05Travelling.Start();
+            //_05Travelling.Start();
+            _06NameWars.Start();
         }
     }
 }
