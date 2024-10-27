@@ -118,7 +118,8 @@
             //_02ExamPreparation.Start();
             //_03Vacation.Start();
             //_04Walking.Start();
-            _05Coins.Start();
+            //_05Coins.Start();
+            _06Cake.Start();
         }
     }
 }
