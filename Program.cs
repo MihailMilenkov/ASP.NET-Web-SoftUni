@@ -14,6 +14,7 @@
     using CSharpProgrammingBasics._07NestedConditionalStatementsEcercise;
     using CSharpProgrammingBasics._08WhileLoop;
     using CSharpProgrammingBasics._09WhileLoopExercise;
+    using CSharpProgrammingBasics._10ForLoop;
 
     internal class Program
     {
@@ -119,7 +120,9 @@
             //_03Vacation.Start();
             //_04Walking.Start();
             //_05Coins.Start();
-            _06Cake.Start();
+            //_06Cake.Start();
+
+            _000ForLoop.Start();
         }
     }
 }
