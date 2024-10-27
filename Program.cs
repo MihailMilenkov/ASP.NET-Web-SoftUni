@@ -133,7 +133,8 @@
             //_07LeftAndRightSum.Start();
             //_08OddEvenSum.Start();
             //_09NumbersNTo1.Start();
-            _10Numbers1ToNWithStep3.Start();
+            //_10Numbers1ToNWithStep3.Start();
+            _11EvenPowersOfTwo.Start();
         }
     }
 }
