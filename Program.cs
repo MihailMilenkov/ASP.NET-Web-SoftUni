@@ -130,7 +130,8 @@
             //_04VowelsSum.Start();
             //_05SumNumbers.Start();
             //_06NumberSequence.Start();
-            _07LeftAndRightSum.Start();
+            //_07LeftAndRightSum.Start();
+            _08OddEvenSum.Start();
         }
     }
 }
