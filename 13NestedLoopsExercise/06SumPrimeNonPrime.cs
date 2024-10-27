@@ -10,7 +10,21 @@
     {
         internal static void Start()
         {
+            string command = Console.ReadLine();
+            int num = int.Parse(command);
 
+            while (command != "stop")
+            {
+                num += int.Parse(Console.ReadLine());
+
+                if (num < 0)
+                {
+                    Console.WriteLine("Number is negative");
+                    continue;
+                }
+            }
+
+            Console.WriteLine(num);
         }
     }
 }

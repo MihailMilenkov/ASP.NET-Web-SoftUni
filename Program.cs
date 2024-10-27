@@ -164,7 +164,8 @@
             //_02NumberPyramid.Start();
             //_03Coding.Start();
             //_04EqualSumsEvenOddPosition.Start();
-            _05EqualSumsLeftRightPosition.Start();
+            //_05EqualSumsLeftRightPosition.Start();
+            _06SumPrimeNonPrime.Start();
         }
     }
 }
