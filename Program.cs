@@ -143,7 +143,8 @@
             //_03OddEvenPosition.Start();
             //_04EqualPairs.Start();
             //_05Histogram.Start();
-            _06DivideWithoutRemainder.Start();
+            //_06DivideWithoutRemainder.Start();
+            _07Salary.Start();
         }
     }
 }
