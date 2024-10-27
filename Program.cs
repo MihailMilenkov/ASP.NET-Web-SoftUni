@@ -161,7 +161,8 @@
             //_09CinemaTickets.Start();
 
             //_01Matrix.Start();
-            _02NumberPyramid.Start();
+            //_02NumberPyramid.Start();
+            _03Coding.Start();
         }
     }
 }
