@@ -186,7 +186,8 @@
             //_14LemonadeStand.Start();
             //_15Reservation.Start();
             //_16SummerShopping.Start();
-            _17LuggageTax.Start();
+            //_17LuggageTax.Start();
+            _18TripExpenses.Start();
         }
     }
 }
