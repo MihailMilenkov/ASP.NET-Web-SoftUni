@@ -14,6 +14,7 @@
             double kgsSugar = double.Parse(Console.ReadLine());
             double litersWater = double.Parse(Console.ReadLine());
 
+
             double totalJuiceCups = Math.Floor(((kgsLemons * 980) + (.3 * kgsSugar) + (litersWater * 1000)) / 150);
 
             Console.WriteLine($"All cups sold: {totalJuiceCups:f0}");
