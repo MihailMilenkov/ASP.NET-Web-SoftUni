@@ -50,7 +50,7 @@
             }
 
             Console.WriteLine($"All bakery sold: {allBakery}");
-            Console.WriteLine($"Total sum for charity: {totalSum:f2} lv.");
+            Console.WriteLine($"Total sum for charity: {totalSum:f2} lv."); ;
         }
     }
 }
